@@ -8,7 +8,7 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mykola--silin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-silin)
 [![Adobe Certified Expert](https://img.shields.io/badge/Adobe_Certified-Expert-FA0F00?logo=adobe&logoColor=white)](https://certification.adobe.com/credential/verify/b5227ef3-175e-45b9-a55f-28a426bceede/linkedin)
-<!-- [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_my_work-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_KOFI_NAME) -->
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_my_work-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mykolasilin)
 
 ---
 
