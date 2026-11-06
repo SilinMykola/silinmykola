@@ -27,6 +27,11 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 | [allure-framework/allure-php-api](https://github.com/allure-framework/allure-php-api) | PHP 8.1 compatibility (Allure is used by Magento's test suite) | [![merged](https://img.shields.io/github/issues-search?query=repo%3Aallure-framework/allure-php-api%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/allure-framework/allure-php-api/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
 | [thephpleague/flysystem](https://github.com/thephpleague/flysystem) | PHP 8.1 compatibility (library used by Magento) | [![merged](https://img.shields.io/github/issues-search?query=repo%3Athephpleague/flysystem%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/thephpleague/flysystem/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
 
+## Recognition
+
+- **#10 of 404 contributors** on the [Magento Open Source Forger contributor leaderboard](https://forger.magento-opensource.com/leaderboard/contributor/user/SilinMykola) (last 12 months, as of November 2026)
+<!-- January 2027: replace with the final 2026 result and a separate line for 2027 -->
+
 ## Currently Building
 
 - **Magento performance checker**: static analysis for FPC and performance anti-patterns, with every rule grounded in the official Adobe documentation.
@@ -43,6 +48,10 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 
 - [Adobe Certified Expert – Adobe Commerce Developer](https://certification.adobe.com/credential/verify/b5227ef3-175e-45b9-a55f-28a426bceede/linkedin)
 - [Adobe Certified Professional – Adobe Commerce Developer](https://certification.adobe.com/credential/verify/673d2937-ecfd-4fa8-86b8-76414ba020d3/linkedin)
+
+## Languages
+
+Ukrainian (native) · Russian (native) · English (professional working) · German (B1, working towards B2)
 
 ---
 
