@@ -14,11 +14,18 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 
 ## Open Source Contributions
 
-| Project | What I did | Merged PRs |
+[![Total merged PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20is%3Amerged%20author%3ASilinMykola%20-user%3ASilinMykola&label=merged%20PRs%20in%20open%20source&color=2ea043)](https://github.com/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola%20-user%3ASilinMykola)
+
+| Project | What I did | PRs |
 |---|---|---|
-| [magento/magento2](https://github.com/magento/magento2) | PHP 8.0 / 8.1 support, core fixes, integration tests | [26](https://github.com/magento/magento2/pulls?q=is%3Apr+is%3Amerged+author%3ASilinMykola) |
-| [magento/magento2-phpstorm-plugin](https://github.com/magento/magento2-phpstorm-plugin) | Features and fixes for the official PhpStorm plugin (Java) | [35](https://github.com/magento/magento2-phpstorm-plugin/pulls?q=is%3Apr+is%3Amerged+author%3ASilinMykola) |
-| [faradey/madock](https://github.com/faradey/madock) | Docker-based local environment for Magento and other stacks (Go) | [1](https://github.com/faradey/madock/pulls?q=is%3Apr+is%3Amerged+author%3ASilinMykola) |
+| [magento/magento2](https://github.com/magento/magento2) | PHP 8.0 / 8.1 support, core fixes, integration tests | [![merged](https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/magento/magento2/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [magento/magento2-phpstorm-plugin](https://github.com/magento/magento2-phpstorm-plugin) | Features and fixes for the official PhpStorm plugin (Java) | [![merged](https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2-phpstorm-plugin%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/magento/magento2-phpstorm-plugin/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [magento/magento2-functional-testing-framework](https://github.com/magento/magento2-functional-testing-framework) | Fixes in the Magento Functional Testing Framework | [![merged](https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2-functional-testing-framework%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/magento/magento2-functional-testing-framework/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [magento/magento-composer-installer](https://github.com/magento/magento-composer-installer) | Fixes in the Composer installer for Magento modules | [![merged](https://img.shields.io/github/issues-search?query=repo%3Amagento/magento-composer-installer%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/magento/magento-composer-installer/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [magento/composer](https://github.com/magento/composer) | Fixes in Magento's Composer tooling | [![merged](https://img.shields.io/github/issues-search?query=repo%3Amagento/composer%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/magento/composer/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [faradey/madock](https://github.com/faradey/madock) | Docker-based local environment for Magento and other stacks (Go) | [![merged](https://img.shields.io/github/issues-search?query=repo%3Afaradey/madock%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/faradey/madock/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [allure-framework/allure-php-api](https://github.com/allure-framework/allure-php-api) | PHP API for the Allure test reporting framework | [![merged](https://img.shields.io/github/issues-search?query=repo%3Aallure-framework/allure-php-api%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/allure-framework/allure-php-api/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
+| [thephpleague/flysystem](https://github.com/thephpleague/flysystem) | Filesystem abstraction library used by Magento and many PHP projects | [![merged](https://img.shields.io/github/issues-search?query=repo%3Athephpleague/flysystem%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=merged&color=2ea043)](https://github.com/thephpleague/flysystem/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola) |
 
 ## Currently Building
 
