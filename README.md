@@ -31,7 +31,7 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 
 ## Recognition
 
-- **#10 of 404 contributors** on the [Magento Open Source Forger contributor leaderboard](https://forger.magento-opensource.com/leaderboard/contributor/user/SilinMykola) (last 12 months, as of November 2026)
+- **#9 of 404 contributors** on the [Magento Open Source Forger contributor leaderboard](https://forger.magento-opensource.com/leaderboard/contributor/user/SilinMykola) (last 12 months, as of November 2026)
 <!-- January 2027: replace with the final 2026 result and a separate line for 2027 -->
 
 ## Currently Building
