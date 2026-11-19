@@ -4,7 +4,7 @@
 
 Backend developer with 8+ years in Magento 2 / Adobe Commerce: custom modules, integrations with ERPs and external APIs, GraphQL, performance and large catalogs (800K+ products). Based in Germany.
 
-I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Magento core together with the core team, integration tests, and features for the official Magento PhpStorm plugin.
+I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Magento core together with the core team, integration tests, and features for the official Magento PhpStorm plugin. I also send fixes to community tools I use, such as madock and MageLens.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mykola--silin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykola-silin)
 [![Adobe Certified Expert](https://img.shields.io/badge/Adobe_Certified-Expert-FA0F00?logo=adobe&logoColor=white)](https://certification.adobe.com/credential/verify/b5227ef3-175e-45b9-a55f-28a426bceede/linkedin)
@@ -19,8 +19,9 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 | Project | Merged PRs | Contribution |
 |---|:---:|---|
 | [Magento 2 core](https://github.com/magento/magento2) | <a href="https://github.com/magento/magento2/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | PHP 8.0 / 8.1 support, core fixes, integration tests |
-| [Magento PhpStorm plugin](https://github.com/magento/magento2-phpstorm-plugin) | <a href="https://github.com/magento/magento2-phpstorm-plugin/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2-phpstorm-plugin%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | Features and fixes (Java) |
+| [Magento PhpStorm plugin](https://github.com/magento/magento2-phpstorm-plugin) | <a href="https://github.com/magento/magento2-phpstorm-plugin/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2-phpstorm-plugin%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | Features and fixes (Java): UCT inspections, MCP tools for AI agents, code generators |
 | [madock](https://github.com/faradey/madock) | <a href="https://github.com/faradey/madock/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Afaradey/madock%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | Go CLI fixes: exit codes, proxy reloads, DB import |
+| [MageLens](https://github.com/MageLens/MageLens) | <a href="https://github.com/MageLens/MageLens/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3AMageLens/MageLens%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | Opt-in HTML validation for Cypress and Playwright tests (Magento test coverage tool) |
 | [MFTF](https://github.com/magento/magento2-functional-testing-framework) | <a href="https://github.com/magento/magento2-functional-testing-framework/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Amagento/magento2-functional-testing-framework%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | Removed AspectMock from unit tests |
 | [Composer installer](https://github.com/magento/magento-composer-installer) | <a href="https://github.com/magento/magento-composer-installer/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Amagento/magento-composer-installer%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | PHP 8.1 compatibility |
 | [magento/composer](https://github.com/magento/composer) | <a href="https://github.com/magento/composer/pulls?q=is%3Apr%20is%3Amerged%20author%3ASilinMykola"><img src="https://img.shields.io/github/issues-search?query=repo%3Amagento/composer%20is%3Apr%20is%3Amerged%20author%3ASilinMykola&label=&color=2ea043&style=flat-square" height="20" alt="merged PRs"></a> | PHP 8.1 support |
@@ -36,7 +37,7 @@ I contribute to the Magento ecosystem itself: PHP 8.0 / 8.1 compatibility for Ma
 
 ## Currently Building
 
-- **Magento performance checker**: static analysis for FPC and performance anti-patterns, with every rule grounded in the official Adobe documentation.
+- **[magento-perf-check](https://github.com/SilinMykola/magento-perf-check)**: static analysis for FPC and performance anti-patterns, with every rule grounded in the official Adobe documentation.
 - **Agent skills for Magento development**: best practices, DDEV workflows and core contribution.
 
 ## Tech Stack
